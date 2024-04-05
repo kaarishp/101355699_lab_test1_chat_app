@@ -1,6 +1,5 @@
 ![LabTest](images/enter.png)
 ![LabTest](images/labtestss.png)
 ![LabTest](images/mess.png)
-![LabTest](images/mongodblab.png)
 ![LabTest](images/labtestlogin.png)
 ![LabTest](images/labtestsignup.png)
